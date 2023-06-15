@@ -1,0 +1,53 @@
+html {
+    font-family: sans-serif;
+    color: #967b28;
+  }
+  
+  body {
+    margin: 0 auto;
+    max-width: 800px;
+  }
+  
+  header, footer {
+    background-color: blue;
+    color: white;
+    padding: 0 20px;
+  }
+  
+  .add, .view {
+    padding: 30px;
+    width: 40%;
+  }
+  
+  .add {
+    border-radius: 17px;
+
+    background: #4d3030; 
+  }
+
+  section {
+    padding: 10px;
+    border-radius: 17px;
+    background: #313437;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  ol {
+    list-style-type: none;
+  }
+  
+  div {
+    margin-bottom: 10px;
+  }
+
+  #title{
+    margin-left: 52px;
+  }
